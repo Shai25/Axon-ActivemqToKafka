@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: org.oiavorskyi.axondemo.itest.cargotracking.CargoTrackingITCase
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 336,620.511 sec <<< FAILURE! - in org.oiavorskyi.axondemo.itest.cargotracking.CargoTrackingITCase
+shouldStartNewTrackingByRequest(org.oiavorskyi.axondemo.itest.cargotracking.CargoTrackingITCase)  Time elapsed: 2.777 sec  <<< ERROR!
+java.util.concurrent.TimeoutException: null
+	at java.util.concurrent.FutureTask.get(FutureTask.java:205)
+	at org.oiavorskyi.axondemo.itest.cargotracking.CargoTrackingITCase.shouldStartNewTrackingByRequest(CargoTrackingITCase.java:21)
+

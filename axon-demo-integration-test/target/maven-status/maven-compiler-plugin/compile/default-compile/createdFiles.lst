@@ -1,0 +1,7 @@
+org\oiavorskyi\axondemo\itest\JmsRequester.class
+org\oiavorskyi\axondemo\itest\AbstractITCase$TestUtilsConfig.class
+org\oiavorskyi\axondemo\itest\AbstractITCase.class
+org\oiavorskyi\axondemo\itest\ExecutionProfileAwareApplicationContextInitializer.class
+org\oiavorskyi\axondemo\itest\JmsRequester$1.class
+org\oiavorskyi\axondemo\itest\JmsRequester$ProducerConsumer.class
+org\oiavorskyi\axondemo\itest\AbstractITCase$IntegrationEnvironmentConfig.class
